@@ -1,0 +1,27 @@
+:root {
+    --bg-color: white;
+    --text-color: black;
+}
+
+[data-theme="dark"] {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+}
+
+[data-theme="blue"] {
+    --bg-color: #003366;
+    --text-color: #ffffff;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+}

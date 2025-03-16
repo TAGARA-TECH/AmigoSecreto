@@ -1,0 +1,58 @@
+Validar nombre
+Si campo nombre esta vacío genera un alert "El campo nombre no puede estar vacio"
+Si campo nombre no es un string genera un alert "El campo nombre debe ser un string"
+Comprar el string ingresado con  el listado de nombre. si no está genera un alerta diciendo "$name" no es un nombre válido (mencionar fuente https://buenosaires.gob.ar/areas/registrocivil/nombres/busqueda/imprimir.php)
+
+funcion onclick y enter para ingresar nombres
+
+ingresa tu nombre y el de tus amigos
+luego relacionas nombres con amigos secretos
+
+CSS Responsive !!!! - verse bien en 3 tipos de pantalla diferente
+
+// Crear Amigo secreto tal cual AluraVideoTutorialEnVivo
+// Crear Adivinar número // Adivinar amigo Secreto // Combinar ambos ...EXTRA!!!!
+1-Verificar quel el campo no esté vacio
+2-Verificar que sea solo texto
+3-Verificar que sea un Nombre -- asignar masculino o femenino True o False ...EXTRA!!!!
+4-Hacerlo Responivo (debe verse bien en todos los dispositivos) ... EXTRA!!!!
+5-Hacer la paleta de colores para daltónicos ... EXTRA!!!!
+6-Crear HTML CSS ANA(Ramiro) DEV y linkerarlo como programadora del sitio ... EXTRA!!!!
+	6.1 Linkedin - GitHub - Instagram - Facebook - X twiter - ... EXTRA!!!!
+7-Crear Pagina de Ayuda A Roció ... SUPER EXTRA!!!!
+
+Windows Inicio Filtros de color tableta de colores daltonismo varios CSS y JS
+
+
+ININDACIONES
+
+Resiliencia + BahíaPorBahía (bahíaxbahia) (Ramiro) // HELP HENRY
+	CeFoBa
+		Reconstrucción EcoAustosustentables.
+			Biodigestores gas
+			Soalar
+			eólico
+			hídirco
+			geotermal
+			marino
+Seguros (Daniela)
+	gestion de reclamos
+	inspecciones para companias de seguros
+	gestoria automotor
+
+Inmobiliaria (Daniela y Ramiro)
+	Comprar barato vender caro
+
+	Lorena Lores Federacion FAGA 
+		chatgpt video minuto y mesio asesoramiento
+
+Silcio Zurzolo
+Castagñola
+PErarnud
+Esem
+Comsorcio Coudad y Puerto
+Susbieles Ciudad y Puerto Cap. Tarmasco
+
+
+
+
